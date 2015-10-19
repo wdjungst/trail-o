@@ -1,0 +1,23 @@
+.list-header {
+  background-color: cadetblue;
+}
+
+.list-body {
+  background-color: darkslategray;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.top-thirty {
+  margin-top: 30px;
+}
+
+.top-5 {
+  margin-top: 5px;
+}
+
+.bottom-5 {
+  margin-bottom: 5px;
+}
